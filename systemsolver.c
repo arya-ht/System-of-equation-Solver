@@ -1,12 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-
 #pragma warning(disable:4996)
+// created by Arya HajiTaheri
 
 double roundoff(double x, int n);
-
-int main() {
+int main(void) {
 
 	int n = 0;
 
